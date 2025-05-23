@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibrahimolaniyi1996
+- 👋 Hi, I’m @ibrahimolaniyi
 - 👀 I’m interested in Data Analytics..
 - 🌱 I’m currently learning Advanced Excel, Power Bi, SQL(Postgres)
 - 💞️ I’m looking to collaborate on analytical datasets...
